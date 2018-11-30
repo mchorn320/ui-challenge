@@ -8,7 +8,6 @@ import javax.management.AttributeList;
 import javax.management.MBeanServer;
 import javax.management.ObjectName;
 
-import com.sun.management.jmx.*;
 
 
 public class Usage {
